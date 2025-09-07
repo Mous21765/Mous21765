@@ -10,6 +10,6 @@
 ## 📊 About me
 - 🌱 Currently learning programming fundamentals and building my first projects  
 - 🎯 Goal: Become an entry-level developer focusing on **Front-End** and **SQL/ERP systems**  
-- 📫 How to reach me: [GitHub]((https://github.com/Mous21765/Mous21765)) | [LinkedIn](www.linkedin.com/in/anastasios-moustakas-0b3619251)  
+- 📫 How to reach me: [GitHub] ((https://github.com/Mous21765/Mous21765)) | [LinkedIn] (www.linkedin.com/in/anastasios-moustakas-0b3619251)  
 
 ---
